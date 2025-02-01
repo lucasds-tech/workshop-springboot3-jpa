@@ -1,4 +1,4 @@
-<h1 align="center">Projeto web services com <br>Spring Boot e JPA / Hibernate</h1>
+<h1 align="center">Projeto web services com Spring Boot e JPA / Hibernate</h1>
 
 ###
 
